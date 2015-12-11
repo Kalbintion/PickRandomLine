@@ -1,0 +1,16 @@
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\bin\Debug\PickRandomLine.exe
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\bin\Debug\PickRandomLine.pdb
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\bin\Debug\PickRandomLine.xml
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\obj\x86\Debug\PickRandomLine.Resources.resources
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\obj\x86\Debug\PickRandomLine.vbproj.GenerateResource.Cache
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\obj\x86\Debug\PickRandomLine.exe
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\obj\x86\Debug\PickRandomLine.xml
+C:\Users\KDK\AppData\Local\Temporary Projects\PickRandomLine\obj\x86\Debug\PickRandomLine.pdb
+C:\Projects\VS10\PickRandomLine\PickRandomLine\obj\x86\Debug\PickRandomLine.exe
+C:\Projects\VS10\PickRandomLine\PickRandomLine\obj\x86\Debug\PickRandomLine.xml
+C:\Projects\VS10\PickRandomLine\PickRandomLine\obj\x86\Debug\PickRandomLine.pdb
+C:\Projects\VS10\PickRandomLine\PickRandomLine\bin\Debug\PickRandomLine.exe
+C:\Projects\VS10\PickRandomLine\PickRandomLine\bin\Debug\PickRandomLine.pdb
+C:\Projects\VS10\PickRandomLine\PickRandomLine\bin\Debug\PickRandomLine.xml
+C:\Projects\VS10\PickRandomLine\PickRandomLine\obj\x86\Debug\PickRandomLine.Resources.resources
+C:\Projects\VS10\PickRandomLine\PickRandomLine\obj\x86\Debug\PickRandomLine.vbproj.GenerateResource.Cache
